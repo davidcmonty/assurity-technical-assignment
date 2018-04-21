@@ -31,7 +31,7 @@ For the sake of this project the simple way is to download [Cypress](http://down
 
 ## Assignment solution approach
 
-I chose to use the Cypress framework using JavaScript as a the language as this is something we are wanting to use at Heyday. API testing is not something we do yet, but is high on the agenda to incorporate at Heyday. I have never used Cypress until this assignment and apart from a quick LinkedIn course on API testing using PHP and Behat, have not done API testing. One of the frameworks we use is, Robot Framework which uses a keyword based tool and does not use a language for writing tests, so dealing with Cypress syntax and JavaScript was challenging in parts, yet extremely satisfying when the solution was solved.
+I chose to use the Cypress framework using JavaScript as a the language as this is something we are wanting to use at Heyday. API testing is not something we do yet, but is high on the agenda to incorporate at Heyday. I have never used Cypress until this assignment and apart from a quick LinkedIn course on API testing using PHP and Behat, have not done API testing. One of the frameworks we use is Robot Framework which uses a keyword based tool and does not use a language for writing tests. So dealing with Cypress syntax and JavaScript was challenging in parts, yet extremely satisfying when the solution was solved.
 
 My mindset is that every problem has a solution and that if you want to learn something you can, with persistence and the right attitude, any goal can be achieved.
 

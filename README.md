@@ -19,7 +19,7 @@ Cypress is a desktop application that is installed on your computer. The desktop
 For the sake of this project the simple way is to download Cypress directly.
 
 - Download [Cypress](http://download.cypress.io/desktop) desktop app to for running tests
-- Clone [Assurity Technical Assignment](https://github.com/davidcmonty/assurity-technical-assignment.git) from GitHub
+- Clone [Assurity Technical Assignment] (https://github.com/davidcmonty/assurity-technical-assignment.git) from GitHub
 
 ## Running the test
 
@@ -29,13 +29,11 @@ For the sake of this project the simple way is to download Cypress directly.
 
 ## Assignment solution approach
 
-I chose to use the Cypress framework using JavaScript as a the language as this is something we are wanting to use at Heyday. API testing is not something we do yet, but is high on the agenda to incorporate at Heyday. I have never used Cypress until this assignment and apart from a quick LinkedIn course on API testing using PHP and Behat, have not done API testing. One of the frameworks we use is Robot Framework which uses keyword based tool and does not use a language for writing tests so dealing with Cypress syntax and JavaScript was good.
+I chose to use the Cypress framework using JavaScript as a the language as this is something we are wanting to use at Heyday. API testing is not something we do yet, but is high on the agenda to incorporate at Heyday. I have never used Cypress until this assignment and apart from a quick LinkedIn course on API testing using PHP and Behat, have not done API testing. One of the frameworks we use is Robot Framework which uses keyword based tool and does not use a language for writing tests, so dealing with Cypress syntax and JavaScript was challenging, yet extremely satisfying when the solution was solved.
 
-The third part of this assignment was challenging as my coding 'chops' for that kind of operation was long out of use. I new what I was trying to achieve but it took some work to solve.
+The third part of this assignment was challenging as my coding 'chops' for that kind of operation was out of use. I new what I was trying to achieve, but it took some work to solve.
 
 My mindset is that every problem has a solution and that if you want to learn something you can, with persistence and the right attitude, any task can be successfully achieved.
-
-
 
 ## Meeting assignment requirements
 - JavaScript was used as the programming language of choice
@@ -43,12 +41,11 @@ My mindset is that every problem has a solution and that if you want to learn so
 - Tests validate all 3 acceptance criteria
 - Tests are written in to follow Cypress best practice. Note that the base URL could have been moved to the cypress.json but for simplicity sake this was added to the api_spec.js as a variable.
 
-
 ## Author
 
-* **David Montgomery** - [Assurity Technical Assignment](https://github.com/davidcmonty/assurity-technical-assignment.git)
+* **David Montgomery** - [Assurity Technical Assignment] (https://github.com/davidcmonty/assurity-technical-assignment.git)
 
 ## Acknowledgments
 
-* [Cypress docs](https://docs.cypress.io/guides/overview/why-cypress.html)
+* Cypress docs
 * The internet

@@ -27,6 +27,7 @@ For the sake of this project the simple way is to download [Cypress](http://down
 - Drag cloned project folder to app window
 - Click 'Run All Tests'
 - Click on test steps to see details
+- See code solution /cypress/integration/api_spec.js
 
 ## Assignment solution approach
 

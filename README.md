@@ -38,7 +38,7 @@ My mindset is that every problem has a solution and that if you want to learn so
 - JavaScript was used as the programming language of choice
 - Tests are executed using the Cypress desktop app to allows execution of tests
 - Tests validate all 3 acceptance criteria
-- Tests are written in to follow Cypress best practice. Note that the base URL could have been moved to the cypress.json but for simplicity sake this was added to the api_spec.js as a variable.
+- Tests are written to follow Cypress best practice. Note that the base URL could have been moved to the cypress.json but for simplicity sake this was added to the api_spec.js as a variable.
 
 ## Author
 

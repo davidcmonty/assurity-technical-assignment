@@ -50,5 +50,5 @@ My mindset is that every problem has a solution and that if you want to learn so
 
 ## Acknowledgments
 
-* Cypress docs
+* [Cypress docs](https://docs.cypress.io/guides/overview/why-cypress.html)
 * The internet

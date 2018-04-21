@@ -7,7 +7,6 @@
 // 3. The Promotions element with Name = "Gallery" has a Description that contains the text "2x larger image"
 
 describe('Assurity Technical Assignment', () => {
-
   const api = 'https://api.tmsandbox.co.nz/v1/Categories/6327/Details.json?catalogue=false'
 
   it('Successfully returns JSON', () => {
@@ -38,7 +37,6 @@ describe('Assurity Technical Assignment', () => {
   })
 
   it('Assert 3: Promotions element with Name "Gallery", has a Description that contains the text "2x larger image"', function () {
-
     const getPromo = () => cy.request(api).its('body').its('Promotions')
 
     getPromo().each(function($element, index) {

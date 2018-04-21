@@ -1,88 +1,54 @@
-# Project Title
+# Assurity Technical Assignment
 
-One Paragraph of project description goes here
+Assurity technical assignment project with Cypress installation instructions.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Follow the setup procedure to get the Cypress end-to-end testing framework up and running. Estimated time 5min.
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+Cypress is a desktop application that is installed on your computer. The desktop application supports these operating systems:
 
-```
-Give examples
-```
+- Mac OS 10.9+ (Mavericks+), only 64bit binaries are provided for macOS.
+- Linux Ubuntu 12.04+, Fedora 21, Debian 8
+- Windows 7+, only 32bit binaries are provided for Windows.
 
 ### Installing
 
-A step by step series of examples that tell you have to get a development env running
+For the sake of this project the simple way is to download Cypress directly.
 
-Say what the step will be
+- Download [Cypress](http://download.cypress.io/desktop) desktop app to for running tests
+- Clone [Assurity Technical Assignment] (https://github.com/davidcmonty/assurity-technical-assignment.git) from GitHub
 
-```
-Give the example
-```
+## Running the test
 
-And repeat
+- Open Cypress app
+- Drag cloned project folder to app window
+- Click 'Run All Tests'
 
-```
-until finished
-```
+## Assignment solution approach
 
-End with an example of getting some data out of the system or using it for a little demo
+I chose to use the Cypress framework using JavaScript as a the language as this is something we are wanting to use at Heyday. API testing is not something we do yet, but is high on the agenda to incorporate at Heyday. I have never used Cypress until this assignment and apart from a quick LinkedIn course on API testing using PHP and Behat, have not done API testing. One of the frameworks we use is Robot Framework which uses keyword based tool and does not use a language for writing tests so dealing with Cypress syntax and JavaScript was good.
 
-## Running the tests
+The third part of this assignment was challenging as my coding 'chops' for that kind of operation was long out of use. I new what I was trying to achieve but it took some work to solve.
 
-Explain how to run the automated tests for this system
+My mindset is that every problem has a solution and that if you want to learn something you can, with persistence and the right attitude, any task can be successfully achieved.
 
-### Break down into end to end tests
 
-Explain what these tests test and why
 
-```
-Give an example
-```
+## Meeting assignment requirements
+- JavaScript was used as the programming language of choice
+- Tests are executed using the Cypress desktop app to allows execution of tests
+- Tests validate all 3 acceptance criteria
+- Tests are written in to follow Cypress best practice. Note that the base URL could have been moved to the cypress.json but for simplicity sake this was added to the api_spec.js as a variable.
 
-### And coding style tests
 
-Explain what these tests test and why
+## Author
 
-```
-Give an example
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
-## Built With
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags). 
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+* **David Montgomery** - [Assurity Technical Assignment] (https://github.com/davidcmonty/assurity-technical-assignment.git)
 
 ## Acknowledgments
 
-* Hat tip to anyone who's code was used
-* Inspiration
-* etc
-
+* Cypress docs
+* The internet

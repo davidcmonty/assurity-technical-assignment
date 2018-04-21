@@ -1,7 +1,7 @@
 //
 // **** Assurity Technical Assignment  ****
 //
-// Acceptance Criteria:
+// *** Acceptance Criteria: ***
 // 1. Name = "Carbon credits"
 // 2. CanRelist = true
 // 3. The Promotions element with Name = "Gallery" has a Description that contains the text "2x larger image"

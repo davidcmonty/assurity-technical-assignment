@@ -19,7 +19,7 @@ Cypress is a desktop application that is installed on your computer. The desktop
 For the sake of this project the simple way is to download Cypress directly.
 
 - Download [Cypress](http://download.cypress.io/desktop) desktop app to for running tests
-- Clone [Assurity Technical Assignment] (https://github.com/davidcmonty/assurity-technical-assignment.git) from GitHub
+- Clone [Assurity Technical Assignment](https://github.com/davidcmonty/assurity-technical-assignment.git) from GitHub
 
 ## Running the test
 
@@ -46,7 +46,7 @@ My mindset is that every problem has a solution and that if you want to learn so
 
 ## Author
 
-* **David Montgomery** - [Assurity Technical Assignment] (https://github.com/davidcmonty/assurity-technical-assignment.git)
+* **David Montgomery** - [Assurity Technical Assignment](https://github.com/davidcmonty/assurity-technical-assignment.git)
 
 ## Acknowledgments
 
